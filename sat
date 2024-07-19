@@ -1,5 +1,5 @@
-FLT:DL1508		STAT:DELAYED		ORGN:ATL		GATE:A5		SCHD:22:24:00/00:48:00		ACTL:00:33:45		ETA:25M		NARR:DELAYED 02:46 
-FLT:DL1508//STAT:DELAYED//ORGN:ATL//GATE:A5//SCHD:22:24:00/00:48:00//ACTL:00:33:45//ETA:25M//NARR:DELAYED 02:46 
+FLT:DL1508		STAT:DELAYED		ORGN:ATL		GATE:A5		SCHD:22:24:00/00:48:00		ACTL:00:33:45		ETA:21M		NARR:DELAYED 02:43 
+FLT:DL1508//STAT:DELAYED//ORGN:ATL//GATE:A5//SCHD:22:24:00/00:48:00//ACTL:00:33:45//ETA:21M//NARR:DELAYED 02:43 
 
 
 ========================================================================================================================================================================================================
