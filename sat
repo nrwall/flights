@@ -13,9 +13,6 @@ FLT:DL1408//STAT:CANCELED//ORGN:ATL//GATE:A5//SCHD:10:48:00/13:09:00//ACTL:UNK//
 FLT:DL1166		STAT:CANCELED		ORGN:JFK		GATE:A4		SCHD:07:00:00/11:06:00		ACTL:UNK		ETA:0M		NARR:CANCELED 
 FLT:DL1166//STAT:CANCELED//ORGN:JFK//GATE:A4//SCHD:07:00:00/11:06:00//ACTL:UNK//ETA:0M//NARR:CANCELED 
 
-FLT:DL788		STAT:CANCELED		ORGN:DTW		GATE:A5		SCHD:07:35:00/10:43:00		ACTL:UNK		ETA:0M		NARR:CANCELED 
-FLT:DL788//STAT:CANCELED//ORGN:DTW//GATE:A5//SCHD:07:35:00/10:43:00//ACTL:UNK//ETA:0M//NARR:CANCELED 
-
 
 ========================================================================================================================================================================================================
 
