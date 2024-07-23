@@ -10,10 +10,6 @@ FLT:DL2568		STAT:CANCELED		ORGN:LAX		GATE:A3		SCHD:10:40:00/13:43:00		ACTL:UNK		
 FLT:DL2568//STAT:CANCELED//ORGN:LAX//GATE:A3//SCHD:10:40:00/13:43:00//ACTL:UNK//ETA:0M//TYPE:319//NARR:CANCELED 
 https://globe.adsbexchange.com/?icao=
 
-FLT:DL1408		STAT:CANCELED		ORGN:ATL		GATE:A3		SCHD:10:48:00/13:09:00		ACTL:UNK		ETA:0M		TYPE:32B		NARR:CANCELED 
-FLT:DL1408//STAT:CANCELED//ORGN:ATL//GATE:A3//SCHD:10:48:00/13:09:00//ACTL:UNK//ETA:0M//TYPE:32B//NARR:CANCELED 
-https://globe.adsbexchange.com/?icao=
-
 ====================================================================================================================================================================================
 
 FLT:DL2686		STAT:CANCELED		ORGN:LAX		GATE:A4		SCHD:20:30:00/23:29:00		ACTL:UNK		ETA:0M		TYPE:A319		NARR:CANCELED 
