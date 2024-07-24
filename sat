@@ -4,8 +4,8 @@ https://globe.adsbexchange.com/?icao=A3271E
 
 ====================================================================================================================================================================================
 
-FLT:DL2675		STAT:DELAYED		ORGN:MSP		GATE:A4		SCHD:14:39:00/17:24:00		ACTL:16:07:27		ETA:71M		TYPE:BCS3		NARR:DELAYED 18:28 
-FLT:DL2675//STAT:DELAYED//ORGN:MSP//GATE:A4//SCHD:14:39:00/17:24:00//ACTL:16:07:27//ETA:71M//TYPE:BCS3//NARR:DELAYED 18:28 
+FLT:DL2675		STAT:DELAYED		ORGN:MSP		GATE:A4		SCHD:14:39:00/17:24:00		ACTL:16:07:27		ETA:72M		TYPE:BCS3		NARR:DELAYED 18:30 
+FLT:DL2675//STAT:DELAYED//ORGN:MSP//GATE:A4//SCHD:14:39:00/17:24:00//ACTL:16:07:27//ETA:72M//TYPE:BCS3//NARR:DELAYED 18:30 
 https://globe.adsbexchange.com/?icao=A34E9D
 
 FLT:DL2680		STAT:ESTIMATED		ORGN:SLC		GATE:A3		SCHD:15:10:00/17:52:00		ACTL:15:22:28		ETA:27M		TYPE:BCS3		NARR:ESTIMATED 17:44 
