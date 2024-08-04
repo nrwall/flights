@@ -8,8 +8,8 @@ https://globe.adsbexchange.com/?icao=A32E86
 
 ====================================================================================================================================================================================
 
-FLT:DL2568		STAT:DELAYED		ORGN:LAX		GATE:A5		SCHD:10:40:00/13:43:00		ACTL:11:35:11		ETA:31M		TYPE:A319		NARR:DELAYED 14:07 
-FLT:DL2568//STAT:DELAYED//ORGN:LAX//GATE:A5//SCHD:10:40:00/13:43:00//ACTL:11:35:11//ETA:31M//TYPE:A319//NARR:DELAYED 14:07 
+FLT:DL2568		STAT:DELAYED		ORGN:LAX		GATE:A5		SCHD:10:40:00/13:43:00		ACTL:11:35:11		ETA:30M		TYPE:A319		NARR:DELAYED 14:07 
+FLT:DL2568//STAT:DELAYED//ORGN:LAX//GATE:A5//SCHD:10:40:00/13:43:00//ACTL:11:35:11//ETA:30M//TYPE:A319//NARR:DELAYED 14:07 
 https://globe.adsbexchange.com/?icao=A365B7
 
 FLT:DL2432		STAT:SCHEDULED		ORGN:DTW		GATE:A4		SCHD:12:40:00/15:41:00		ACTL:UNK		ETA:0M		TYPE:A319		NARR:SCHEDULED 
