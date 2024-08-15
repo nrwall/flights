@@ -1,5 +1,5 @@
-FLT:DL2675		STAT:DELAYED		ORGN:MSP		GATE:A5		SCHD:14:40:00/17:25:00		ACTL:15:21:08		ETA:8M		TYPE:BCS3		NARR:DELAYED 17:48 
-FLT:DL2675//STAT:DELAYED//ORGN:MSP//GATE:A5//SCHD:14:40:00/17:25:00//ACTL:15:21:08//ETA:8M//TYPE:BCS3//NARR:DELAYED 17:48 
+FLT:DL2675		STAT:DELAYED		ORGN:MSP		GATE:A5		SCHD:14:40:00/17:25:00		ACTL:15:21:08		ETA:7M		TYPE:BCS3		NARR:DELAYED 17:48 
+FLT:DL2675//STAT:DELAYED//ORGN:MSP//GATE:A5//SCHD:14:40:00/17:25:00//ACTL:15:21:08//ETA:7M//TYPE:BCS3//NARR:DELAYED 17:48 
 https://globe.adsbexchange.com/?icao=A37D8A
 
 ====================================================================================================================================================================================
