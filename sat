@@ -1,5 +1,5 @@
-FLT:DL2773		STAT:DELAYED		ORGN:MSP		GATE:A7		SCHD:20:50:00/23:39:00		ACTL:21:41:05		ETA:0M		TYPE:A319		NARR:DELAYED 00:04 
-FLT:DL2773//STAT:DELAYED//ORGN:MSP//GATE:A7//SCHD:20:50:00/23:39:00//ACTL:21:41:05//ETA:0M//TYPE:A319//NARR:DELAYED 00:04 
+FLT:DL2773		STAT:DELAYED		ORGN:MSP		GATE:A7		SCHD:20:50:00/23:39:00		ACTL:21:41:05		ETA:-1M		TYPE:A319		NARR:DELAYED 00:04 
+FLT:DL2773//STAT:DELAYED//ORGN:MSP//GATE:A7//SCHD:20:50:00/23:39:00//ACTL:21:41:05//ETA:-1M//TYPE:A319//NARR:DELAYED 00:04 
 https://globe.adsbexchange.com/?icao=A327EE
 
 ====================================================================================================================================================================================
