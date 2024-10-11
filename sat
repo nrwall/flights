@@ -1,7 +1,3 @@
-FLT:DL1508		STAT:DELAYED		ORGN:ATL		GATE:A6		SCHD:22:11:00/00:39:00		ACTL:22:48:42		ETA:8M		TYPE:A321		NARR:DELAYED 00:55 
-FLT:DL1508//STAT:DELAYED//ORGN:ATL//GATE:A6//SCHD:22:11:00/00:39:00//ACTL:22:48:42//ETA:8M//TYPE:A321//NARR:DELAYED 00:55 
-https://globe.adsbexchange.com/?icao=A44E24
-
 ====================================================================================================================================================================================
 
 FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:A3		SCHD:07:20:00/09:51:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
