@@ -1,5 +1,5 @@
-FLT:DL8933		STAT:DELAYED		ORGN:MSP		GATE:NoneNone		SCHD:23:55:00/02:44:00		ACTL:01:02:55		ETA:13M		TYPE:B752		NARR:DELAYED 03:33 
-FLT:DL8933//STAT:DELAYED//ORGN:MSP//GATE:NoneNone//SCHD:23:55:00/02:44:00//ACTL:01:02:55//ETA:13M//TYPE:B752//NARR:DELAYED 03:33 
+FLT:DL8933		STAT:DELAYED		ORGN:MSP		GATE:NoneNone		SCHD:23:55:00/02:44:00		ACTL:01:02:55		ETA:12M		TYPE:B752		NARR:DELAYED 03:33 
+FLT:DL8933//STAT:DELAYED//ORGN:MSP//GATE:NoneNone//SCHD:23:55:00/02:44:00//ACTL:01:02:55//ETA:12M//TYPE:B752//NARR:DELAYED 03:33 
 https://globe.adsbexchange.com/?icao=A8947E
 
 ====================================================================================================================================================================================
