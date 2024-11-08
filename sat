@@ -1,9 +1,5 @@
 ====================================================================================================================================================================================
 
-FLT:DL2773		STAT:LANDED		ORGN:MSP		GATE:A5		SCHD:21:05:00/23:59:00		ACTL:21:14:39		ETA:-3M		TYPE:A319		NARR:LANDED 23:56 
-FLT:DL2773//STAT:LANDED//ORGN:MSP//GATE:A5//SCHD:21:05:00/23:59:00//ACTL:21:14:39//ETA:-3M//TYPE:A319//NARR:LANDED 23:56 
-https://globe.adsbexchange.com/?icao=A3A222
-
 FLT:DL8944		STAT:ESTIMATED		ORGN:MKE		GATE:NoneNone		SCHD:22:45:00/01:37:00		ACTL:23:08:21		ETA:107M		TYPE:B752		NARR:ESTIMATED 01:47 
 FLT:DL8944//STAT:ESTIMATED//ORGN:MKE//GATE:NoneNone//SCHD:22:45:00/01:37:00//ACTL:23:08:21//ETA:107M//TYPE:B752//NARR:ESTIMATED 01:47 
 https://globe.adsbexchange.com/?icao=A8BFB6
