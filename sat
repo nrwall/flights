@@ -1,5 +1,5 @@
-FLT:DL8839		STAT:DELAYED		ORGN:SMF		GATE:NoneNone		SCHD:15:20:00/18:25:00		ACTL:15:58:25		ETA:1M		TYPE:B752		NARR:DELAYED 18:41 
-FLT:DL8839//STAT:DELAYED//ORGN:SMF//GATE:NoneNone//SCHD:15:20:00/18:25:00//ACTL:15:58:25//ETA:1M//TYPE:B752//NARR:DELAYED 18:41 
+FLT:DL8839		STAT:UNKNOWN		ORGN:SMF		GATE:NoneNone		SCHD:15:20:00/18:25:00		ACTL:15:58:25		ETA:0M		TYPE:B752		NARR:UNKNOWN 
+FLT:DL8839//STAT:UNKNOWN//ORGN:SMF//GATE:NoneNone//SCHD:15:20:00/18:25:00//ACTL:15:58:25//ETA:0M//TYPE:B752//NARR:UNKNOWN 
 https://globe.adsbexchange.com/?icao=A8BFB6
 
 ====================================================================================================================================================================================
