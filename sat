@@ -1,7 +1,3 @@
-FLT:DL8942		STAT:DELAYED		ORGN:DAL		GATE:NoneNone		SCHD:23:15:00/00:16:00		ACTL:00:32:54		ETA:-1M		TYPE:B752		NARR:DELAYED 01:14 
-FLT:DL8942//STAT:DELAYED//ORGN:DAL//GATE:NoneNone//SCHD:23:15:00/00:16:00//ACTL:00:32:54//ETA:-1M//TYPE:B752//NARR:DELAYED 01:14 
-https://globe.adsbexchange.com/?icao=A8BFB6
-
 ====================================================================================================================================================================================
 
 FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:A3		SCHD:07:10:00/09:47:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
