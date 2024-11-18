@@ -1,5 +1,5 @@
-FLT:DL1508		STAT:DELAYED		ORGN:ATL		GATE:A5		SCHD:22:19:00/00:55:00		ACTL:23:42:46		ETA:20M		TYPE:A321		NARR:DELAYED 01:45 
-FLT:DL1508//STAT:DELAYED//ORGN:ATL//GATE:A5//SCHD:22:19:00/00:55:00//ACTL:23:42:46//ETA:20M//TYPE:A321//NARR:DELAYED 01:45 
+FLT:DL1508		STAT:DELAYED		ORGN:ATL		GATE:A5		SCHD:22:19:00/00:55:00		ACTL:23:42:46		ETA:25M		TYPE:A321		NARR:DELAYED 01:50 
+FLT:DL1508//STAT:DELAYED//ORGN:ATL//GATE:A5//SCHD:22:19:00/00:55:00//ACTL:23:42:46//ETA:25M//TYPE:A321//NARR:DELAYED 01:50 
 https://globe.adsbexchange.com/?icao=A3524E
 
 ====================================================================================================================================================================================
