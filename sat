@@ -1,5 +1,5 @@
-FLT:DL2797		STAT:DELAYED		ORGN:SLC		GATE:A7		SCHD:22:15:00/00:57:00		ACTL:23:46:40		ETA:42M		TYPE:A320		NARR:DELAYED 01:53 
-FLT:DL2797//STAT:DELAYED//ORGN:SLC//GATE:A7//SCHD:22:15:00/00:57:00//ACTL:23:46:40//ETA:42M//TYPE:A320//NARR:DELAYED 01:53 
+FLT:DL2797		STAT:DELAYED		ORGN:SLC		GATE:A7		SCHD:22:15:00/00:57:00		ACTL:23:46:40		ETA:41M		TYPE:A320		NARR:DELAYED 01:53 
+FLT:DL2797//STAT:DELAYED//ORGN:SLC//GATE:A7//SCHD:22:15:00/00:57:00//ACTL:23:46:40//ETA:41M//TYPE:A320//NARR:DELAYED 01:53 
 https://globe.adsbexchange.com/?icao=A3A9A3
 
 ====================================================================================================================================================================================
@@ -70,5 +70,5 @@ https://globe.adsbexchange.com/?icao=A384F8
 
 FLT:DL2680		STAT:SCHEDULED		ORGN:SLC		GATE:A9		SCHD:14:59:00/17:42:00		ACTL:UNK		ETA:0M		TYPE:BCS3		NARR:SCHEDULED 
 FLT:DL2680//STAT:SCHEDULED//ORGN:SLC//GATE:A9//SCHD:14:59:00/17:42:00//ACTL:UNK//ETA:0M//TYPE:BCS3//NARR:SCHEDULED 
-https://globe.adsbexchange.com/?icao=A34AE6
+https://globe.adsbexchange.com/?icao=
 
