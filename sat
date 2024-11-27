@@ -1,5 +1,5 @@
-FLT:DL2432		STAT:DELAYED		ORGN:DTW		GATE:A6		SCHD:11:50:00/15:14:00		ACTL:13:44:39		ETA:4M		TYPE:A319		NARR:DELAYED 16:46 
-FLT:DL2432//STAT:DELAYED//ORGN:DTW//GATE:A6//SCHD:11:50:00/15:14:00//ACTL:13:44:39//ETA:4M//TYPE:A319//NARR:DELAYED 16:46 
+FLT:DL2432		STAT:DELAYED		ORGN:DTW		GATE:A6		SCHD:11:50:00/15:14:00		ACTL:13:44:39		ETA:3M		TYPE:A319		NARR:DELAYED 16:46 
+FLT:DL2432//STAT:DELAYED//ORGN:DTW//GATE:A6//SCHD:11:50:00/15:14:00//ACTL:13:44:39//ETA:3M//TYPE:A319//NARR:DELAYED 16:46 
 https://globe.adsbexchange.com/?icao=A327EE
 
 ====================================================================================================================================================================================
