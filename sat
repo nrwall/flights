@@ -1,5 +1,5 @@
-FLT:DL8942		STAT:DELAYED		ORGN:MSP		GATE:NoneNone		SCHD:22:45:00/01:37:00		ACTL:00:50:40		ETA:6M		TYPE:B752		NARR:DELAYED 03:08 
-FLT:DL8942//STAT:DELAYED//ORGN:MSP//GATE:NoneNone//SCHD:22:45:00/01:37:00//ACTL:00:50:40//ETA:6M//TYPE:B752//NARR:DELAYED 03:08 
+FLT:DL8942		STAT:DELAYED		ORGN:MSP		GATE:NoneNone		SCHD:22:45:00/01:37:00		ACTL:00:50:40		ETA:5M		TYPE:B752		NARR:DELAYED 03:08 
+FLT:DL8942//STAT:DELAYED//ORGN:MSP//GATE:NoneNone//SCHD:22:45:00/01:37:00//ACTL:00:50:40//ETA:5M//TYPE:B752//NARR:DELAYED 03:08 
 https://globe.adsbexchange.com/?icao=A8BFB6
 
 ====================================================================================================================================================================================
