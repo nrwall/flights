@@ -4,8 +4,8 @@ https://globe.adsbexchange.com/?icao=A086B4
 
 ====================================================================================================================================================================================
 
-FLT:DL8838		STAT:DELAYED		ORGN:DEN		GATE:NoneNone		SCHD:01:40:00/03:40:00		ACTL:03:21:35		ETA:83M		TYPE:B752		NARR:DELAYED 04:59 
-FLT:DL8838//STAT:DELAYED//ORGN:DEN//GATE:NoneNone//SCHD:01:40:00/03:40:00//ACTL:03:21:35//ETA:83M//TYPE:B752//NARR:DELAYED 04:59 
+FLT:DL8838		STAT:DELAYED		ORGN:DEN		GATE:NoneNone		SCHD:01:40:00/03:40:00		ACTL:03:21:35		ETA:82M		TYPE:B752		NARR:DELAYED 04:59 
+FLT:DL8838//STAT:DELAYED//ORGN:DEN//GATE:NoneNone//SCHD:01:40:00/03:40:00//ACTL:03:21:35//ETA:82M//TYPE:B752//NARR:DELAYED 04:59 
 https://globe.adsbexchange.com/?icao=A89BEC
 
 FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:A3		SCHD:07:21:00/10:03:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
