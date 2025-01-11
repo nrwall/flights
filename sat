@@ -10,10 +10,6 @@ FLT:DL2893		STAT:CANCELED		ORGN:ATL		GATE:A5		SCHD:19:15:00/21:54:00		ACTL:UNK		
 FLT:DL2893//STAT:CANCELED//ORGN:ATL//GATE:A5//SCHD:19:15:00/21:54:00//ACTL:UNK//ETA:0M//TYPE:A321//NARR:CANCELED 
 https://globe.adsbexchange.com/?icao=A04695
 
-FLT:DL1465		STAT:CANCELED		ORGN:ATL		GATE:A3		SCHD:14:17:00/16:54:00		ACTL:UNK		ETA:0M		TYPE:32B		NARR:CANCELED 
-FLT:DL1465//STAT:CANCELED//ORGN:ATL//GATE:A3//SCHD:14:17:00/16:54:00//ACTL:UNK//ETA:0M//TYPE:32B//NARR:CANCELED 
-https://globe.adsbexchange.com/?icao=
-
 ====================================================================================================================================================================================
 
 FLT:DL1408		STAT:SCHEDULED		ORGN:ATL		GATE:A5		SCHD:10:15:00/12:54:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
