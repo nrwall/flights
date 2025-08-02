@@ -1,5 +1,5 @@
-FLT:DL1024		STAT:DELAYED		ORGN:LAX		GATE:A4		SCHD:11:30:00/14:30:00		ACTL:12:54:32		ETA:50M		TYPE:A319		NARR:DELAYED 15:24 
-FLT:DL1024//STAT:DELAYED//ORGN:LAX//GATE:A4//SCHD:11:30:00/14:30:00//ACTL:12:54:32//ETA:50M//TYPE:A319//NARR:DELAYED 15:24 
+FLT:DL1024		STAT:DELAYED		ORGN:LAX		GATE:A4		SCHD:11:30:00/14:30:00		ACTL:12:54:32		ETA:49M		TYPE:A319		NARR:DELAYED 15:24 
+FLT:DL1024//STAT:DELAYED//ORGN:LAX//GATE:A4//SCHD:11:30:00/14:30:00//ACTL:12:54:32//ETA:49M//TYPE:A319//NARR:DELAYED 15:24 
 https://globe.adsbexchange.com/?icao=A3A5D9
 
 ====================================================================================================================================================================================
