@@ -1,7 +1,3 @@
-FLT:DL2675		STAT:DELAYED		ORGN:MSP		GATE:A5		SCHD:14:25:00/17:12:00		ACTL:15:19:25		ETA:-1M		TYPE:BCS3		NARR:DELAYED 18:05 
-FLT:DL2675//STAT:DELAYED//ORGN:MSP//GATE:A5//SCHD:14:25:00/17:12:00//ACTL:15:19:25//ETA:-1M//TYPE:BCS3//NARR:DELAYED 18:05 
-https://globe.adsbexchange.com/?icao=A33D68
-
 ====================================================================================================================================================================================
 
 FLT:DL2893		STAT:SCHEDULED		ORGN:ATL		GATE:A5		SCHD:17:55:00/20:19:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
