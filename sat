@@ -1,9 +1,5 @@
 ====================================================================================================================================================================================
 
-FLT:DL2686		STAT:LANDED		ORGN:LAX		GATE:A6		SCHD:21:05:00/23:52:00		ACTL:21:03:59		ETA:-26M		TYPE:A319		NARR:LANDED 23:26 
-FLT:DL2686//STAT:LANDED//ORGN:LAX//GATE:A6//SCHD:21:05:00/23:52:00//ACTL:21:03:59//ETA:-26M//TYPE:A319//NARR:LANDED 23:26 
-https://globe.adsbexchange.com/?icao=A4200D
-
 FLT:DL1508		STAT:LANDED		ORGN:ATL		GATE:A3		SCHD:21:35:00/23:59:00		ACTL:21:45:39		ETA:-15M		TYPE:A321		NARR:LANDED 23:38 
 FLT:DL1508//STAT:LANDED//ORGN:ATL//GATE:A3//SCHD:21:35:00/23:59:00//ACTL:21:45:39//ETA:-15M//TYPE:A321//NARR:LANDED 23:38 
 https://globe.adsbexchange.com/?icao=A36EA8
@@ -74,4 +70,4 @@ https://globe.adsbexchange.com/?icao=A0A6C5
 
 
 
-https://globe.adsbexchange.com/?icao=A4200D,A36EA8,A09CFE,A3C8CB,A42EE9,A44D1C,A3C246,A0311D,A02C94,A08E1E,A5BB16,A057C7,A3F133,A36200,A3A9A3,A3C9B4,A09590,A0A6C5
+https://globe.adsbexchange.com/?icao=A36EA8,A09CFE,A3C8CB,A42EE9,A44D1C,A3C246,A0311D,A02C94,A08E1E,A5BB16,A057C7,A3F133,A36200,A3A9A3,A3C9B4,A09590,A0A6C5
