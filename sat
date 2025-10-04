@@ -1,5 +1,5 @@
-FLT:DL2686		STAT:DELAYED		ORGN:LAX		GATE:A6		SCHD:21:05:00/23:52:00		ACTL:22:10:11		ETA:1M		TYPE:A319		NARR:DELAYED 00:33 
-FLT:DL2686//STAT:DELAYED//ORGN:LAX//GATE:A6//SCHD:21:05:00/23:52:00//ACTL:22:10:11//ETA:1M//TYPE:A319//NARR:DELAYED 00:33 
+FLT:DL2686		STAT:DELAYED		ORGN:LAX		GATE:A6		SCHD:21:05:00/23:52:00		ACTL:22:10:11		ETA:-1M		TYPE:A319		NARR:DELAYED 00:33 
+FLT:DL2686//STAT:DELAYED//ORGN:LAX//GATE:A6//SCHD:21:05:00/23:52:00//ACTL:22:10:11//ETA:-1M//TYPE:A319//NARR:DELAYED 00:33 
 https://globe.adsbexchange.com/?icao=A35E49
 
 ====================================================================================================================================================================================
