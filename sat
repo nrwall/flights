@@ -1,7 +1,3 @@
-FLT:DL2686		STAT:DELAYED		ORGN:LAX		GATE:AA7		SCHD:20:59:00/23:46:00		ACTL:23:40:52		ETA:0M		TYPE:A319		NARR:DELAYED 01:59 
-FLT:DL2686//STAT:DELAYED//ORGN:LAX//GATE:AA7//SCHD:20:59:00/23:46:00//ACTL:23:40:52//ETA:0M//TYPE:A319//NARR:DELAYED 01:59 
-https://globe.adsbexchange.com/?icao=A32437
-
 ====================================================================================================================================================================================
 
 FLT:DL1312		STAT:SCHEDULED		ORGN:ATL		GATE:AA3		SCHD:07:20:00/09:50:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
