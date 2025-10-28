@@ -1,9 +1,5 @@
 ====================================================================================================================================================================================
 
-FLT:DL1465		STAT:ESTIMATED		ORGN:ATL		GATE:AA4		SCHD:14:46:00/17:16:00		ACTL:15:16:09		ETA:1M		TYPE:A320		NARR:ESTIMATED 17:17 
-FLT:DL1465//STAT:ESTIMATED//ORGN:ATL//GATE:AA4//SCHD:14:46:00/17:16:00//ACTL:15:16:09//ETA:1M//TYPE:A320//NARR:ESTIMATED 17:17 
-https://globe.adsbexchange.com/?icao=A438C3
-
 FLT:DL2893		STAT:SCHEDULED		ORGN:ATL		GATE:AA5		SCHD:17:59:00/20:28:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
 FLT:DL2893//STAT:SCHEDULED//ORGN:ATL//GATE:AA5//SCHD:17:59:00/20:28:00//ACTL:UNK//ETA:0M//TYPE:A321//NARR:SCHEDULED 
 https://globe.adsbexchange.com/?icao=A38C60
@@ -58,4 +54,4 @@ https://globe.adsbexchange.com/?icao=A3689E
 
 
 
-https://globe.adsbexchange.com/?icao=A438C3,A38C60,A008C9,A3AD47,A3C233,A438C3,A08E1E,A3DC47,A35A92,ABC91F,A4478D,A05410,,A3689E
+https://globe.adsbexchange.com/?icao=A38C60,A008C9,A3AD47,A3C233,A438C3,A08E1E,A3DC47,A35A92,ABC91F,A4478D,A05410,,A3689E
