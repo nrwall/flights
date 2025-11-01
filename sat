@@ -1,7 +1,3 @@
-FLT:DL1365		STAT:DELAYED		ORGN:DTW		GATE:AA6		SCHD:19:30:00/22:42:00		ACTL:21:56:31		ETA:-1M		TYPE:A319		NARR:DELAYED 00:54 
-FLT:DL1365//STAT:DELAYED//ORGN:DTW//GATE:AA6//SCHD:19:30:00/22:42:00//ACTL:21:56:31//ETA:-1M//TYPE:A319//NARR:DELAYED 00:54 
-https://globe.adsbexchange.com/?icao=A3ED69
-
 ====================================================================================================================================================================================
 
 FLT:DL8838		STAT:SCHEDULED		ORGN:LAX		GATE:NoneNone		SCHD:08:20:00/07:57:37		ACTL:UNK		ETA:0M		TYPE:B752		NARR:SCHEDULED 
