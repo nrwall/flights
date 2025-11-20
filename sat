@@ -1,5 +1,5 @@
-FLT:DL8845		STAT:DELAYED		ORGN:HOU		GATE:NoneNone		SCHD:14:55:00/15:38:33		ACTL:17:20:32		ETA:1M		TYPE:B752		NARR:DELAYED 17:56 
-FLT:DL8845//STAT:DELAYED//ORGN:HOU//GATE:NoneNone//SCHD:14:55:00/15:38:33//ACTL:17:20:32//ETA:1M//TYPE:B752//NARR:DELAYED 17:56 
+FLT:DL8845		STAT:DELAYED		ORGN:HOU		GATE:NoneNone		SCHD:14:55:00/15:38:33		ACTL:17:20:32		ETA:0M		TYPE:B752		NARR:DELAYED 17:56 
+FLT:DL8845//STAT:DELAYED//ORGN:HOU//GATE:NoneNone//SCHD:14:55:00/15:38:33//ACTL:17:20:32//ETA:0M//TYPE:B752//NARR:DELAYED 17:56 
 https://globe.adsbexchange.com/?icao=A8947E
 
 ====================================================================================================================================================================================
