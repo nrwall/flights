@@ -8,8 +8,8 @@ https://globe.adsbexchange.com/?icao=A3F7B8
 
 ====================================================================================================================================================================================
 
-FLT:DL1260		STAT:LANDED		ORGN:SLC		GATE:AA6		SCHD:11:02:00/13:49:00		ACTL:11:19:15		ETA:-13M		TYPE:BCS1		NARR:LANDED 13:31 
-FLT:DL1260//STAT:LANDED//ORGN:SLC//GATE:AA6//SCHD:11:02:00/13:49:00//ACTL:11:19:15//ETA:-13M//TYPE:BCS1//NARR:LANDED 13:31 
+FLT:DL1260		STAT:LANDED		ORGN:SLC		GATE:AA6		SCHD:11:02:00/13:49:00		ACTL:11:19:15		ETA:-14M		TYPE:BCS1		NARR:LANDED 13:31 
+FLT:DL1260//STAT:LANDED//ORGN:SLC//GATE:AA6//SCHD:11:02:00/13:49:00//ACTL:11:19:15//ETA:-14M//TYPE:BCS1//NARR:LANDED 13:31 
 https://globe.adsbexchange.com/?icao=A02C91
 
 FLT:DL1024		STAT:SCHEDULED		ORGN:LAX		GATE:AA3		SCHD:11:55:00/14:46:00		ACTL:UNK		ETA:0M		TYPE:A319		NARR:SCHEDULED 
