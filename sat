@@ -1,5 +1,5 @@
-FLT:DL1262		STAT:DELAYED		ORGN:SLC		GATE:AA5		SCHD:14:20:00/17:05:00		ACTL:16:13:33		ETA:6M		TYPE:BCS1		NARR:DELAYED 18:25 
-FLT:DL1262//STAT:DELAYED//ORGN:SLC//GATE:AA5//SCHD:14:20:00/17:05:00//ACTL:16:13:33//ETA:6M//TYPE:BCS1//NARR:DELAYED 18:25 
+FLT:DL1262		STAT:DELAYED		ORGN:SLC		GATE:AA5		SCHD:14:20:00/17:05:00		ACTL:16:13:33		ETA:5M		TYPE:BCS1		NARR:DELAYED 18:25 
+FLT:DL1262//STAT:DELAYED//ORGN:SLC//GATE:AA5//SCHD:14:20:00/17:05:00//ACTL:16:13:33//ETA:5M//TYPE:BCS1//NARR:DELAYED 18:25 
 https://globe.adsbexchange.com/?icao=A09CFE
 
 ====================================================================================================================================================================================
