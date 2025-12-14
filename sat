@@ -4,8 +4,8 @@ https://globe.adsbexchange.com/?icao=A0A30E
 
 ====================================================================================================================================================================================
 
-FLT:DL2773		STAT:LANDED		ORGN:MSP		GATE:AA3		SCHD:18:17:00/21:19:00		ACTL:18:46:34		ETA:-4M		TYPE:BCS1		NARR:LANDED 21:03 
-FLT:DL2773//STAT:LANDED//ORGN:MSP//GATE:AA3//SCHD:18:17:00/21:19:00//ACTL:18:46:34//ETA:-4M//TYPE:BCS1//NARR:LANDED 21:03 
+FLT:DL2773		STAT:LANDED		ORGN:MSP		GATE:AA3		SCHD:18:17:00/21:19:00		ACTL:18:46:34		ETA:-5M		TYPE:BCS1		NARR:LANDED 21:03 
+FLT:DL2773//STAT:LANDED//ORGN:MSP//GATE:AA3//SCHD:18:17:00/21:19:00//ACTL:18:46:34//ETA:-5M//TYPE:BCS1//NARR:LANDED 21:03 
 https://globe.adsbexchange.com/?icao=A0A30E
 
 FLT:DL2686		STAT:SCHEDULED		ORGN:LAX		GATE:AA6		SCHD:21:00:00/23:49:00		ACTL:21:03:13		ETA:0M		TYPE:A319		NARR:SCHEDULED 
