@@ -1,7 +1,7 @@
 ====================================================================================================================================================================================
 
-FLT:DL8840		STAT:LANDED		ORGN:MSY		GATE:NoneNone		SCHD:01:50:00/03:08:52		ACTL:01:43:53		ETA:-11M		TYPE:B752		NARR:LANDED 02:51 
-FLT:DL8840//STAT:LANDED//ORGN:MSY//GATE:NoneNone//SCHD:01:50:00/03:08:52//ACTL:01:43:53//ETA:-11M//TYPE:B752//NARR:LANDED 02:51 
+FLT:DL8840		STAT:LANDED		ORGN:MSY		GATE:NoneNone		SCHD:01:50:00/03:08:52		ACTL:01:43:53		ETA:-12M		TYPE:B752		NARR:LANDED 02:51 
+FLT:DL8840//STAT:LANDED//ORGN:MSY//GATE:NoneNone//SCHD:01:50:00/03:08:52//ACTL:01:43:53//ETA:-12M//TYPE:B752//NARR:LANDED 02:51 
 https://globe.adsbexchange.com/?icao=A8B848
 
 FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:AA3		SCHD:07:29:00/10:11:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
