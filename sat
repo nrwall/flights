@@ -8,8 +8,8 @@ https://globe.adsbexchange.com/?icao=A41F37
 
 ====================================================================================================================================================================================
 
-FLT:DL8944		STAT:ESTIMATED		ORGN:SLC		GATE:NoneNone		SCHD:00:30:00/02:56:38		ACTL:00:32:03		ETA:0M		TYPE:B752		NARR:ESTIMATED 02:42 
-FLT:DL8944//STAT:ESTIMATED//ORGN:SLC//GATE:NoneNone//SCHD:00:30:00/02:56:38//ACTL:00:32:03//ETA:0M//TYPE:B752//NARR:ESTIMATED 02:42 
+FLT:DL8944		STAT:ESTIMATED		ORGN:SLC		GATE:NoneNone		SCHD:00:30:00/02:56:38		ACTL:00:32:03		ETA:-1M		TYPE:B752		NARR:ESTIMATED 02:42 
+FLT:DL8944//STAT:ESTIMATED//ORGN:SLC//GATE:NoneNone//SCHD:00:30:00/02:56:38//ACTL:00:32:03//ETA:-1M//TYPE:B752//NARR:ESTIMATED 02:42 
 https://globe.adsbexchange.com/?icao=A8BFB6
 
 FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:AA3		SCHD:07:24:00/10:06:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:SCHEDULED 
