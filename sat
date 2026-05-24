@@ -1,5 +1,5 @@
-FLT:DL1365		STAT:DELAYED		ORGN:DTW		GATE:A6		SCHD:19:12:00/22:27:00		ACTL:20:07:25		ETA:5M		TYPE:A319		NARR:DELAYED 22:43 
-FLT:DL1365//STAT:DELAYED//ORGN:DTW//GATE:A6//SCHD:19:12:00/22:27:00//ACTL:20:07:25//ETA:5M//TYPE:A319//NARR:DELAYED 22:43 
+FLT:DL1365		STAT:DELAYED		ORGN:DTW		GATE:A6		SCHD:19:12:00/22:27:00		ACTL:20:07:25		ETA:4M		TYPE:A319		NARR:DELAYED 22:43 
+FLT:DL1365//STAT:DELAYED//ORGN:DTW//GATE:A6//SCHD:19:12:00/22:27:00//ACTL:20:07:25//ETA:4M//TYPE:A319//NARR:DELAYED 22:43 
 https://globe.adsbexchange.com/?icao=A365B7
 
 ====================================================================================================================================================================================
