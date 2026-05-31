@@ -1,5 +1,5 @@
-FLT:DL8942		STAT:DELAYED		ORGN:OKC		GATE:NoneNone		SCHD:23:00:00/00:17:00		ACTL:00:29:17		ETA:6M		TYPE:B752		NARR:DELAYED 01:30 
-FLT:DL8942//STAT:DELAYED//ORGN:OKC//GATE:NoneNone//SCHD:23:00:00/00:17:00//ACTL:00:29:17//ETA:6M//TYPE:B752//NARR:DELAYED 01:30 
+FLT:DL8942		STAT:DELAYED		ORGN:OKC		GATE:NoneNone		SCHD:23:00:00/00:17:00		ACTL:00:29:17		ETA:5M		TYPE:B752		NARR:DELAYED 01:30 
+FLT:DL8942//STAT:DELAYED//ORGN:OKC//GATE:NoneNone//SCHD:23:00:00/00:17:00//ACTL:00:29:17//ETA:5M//TYPE:B752//NARR:DELAYED 01:30 
 https://globe.adsbexchange.com/?icao=A88700
 
 ====================================================================================================================================================================================
