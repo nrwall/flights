@@ -1,7 +1,7 @@
 ====================================================================================================================================================================================
 
-FLT:DL8944		STAT:DELAYED		ORGN:ATL		GATE:NoneNone		SCHD:04:00:00/06:22:00		ACTL:05:32:17		ETA:118M		TYPE:B752		NARR:DELAYED 07:33 
-FLT:DL8944//STAT:DELAYED//ORGN:ATL//GATE:NoneNone//SCHD:04:00:00/06:22:00//ACTL:05:32:17//ETA:118M//TYPE:B752//NARR:DELAYED 07:33 
+FLT:DL8944		STAT:DELAYED		ORGN:ATL		GATE:NoneNone		SCHD:04:00:00/06:22:00		ACTL:05:32:17		ETA:120M		TYPE:B752		NARR:DELAYED 07:35 
+FLT:DL8944//STAT:DELAYED//ORGN:ATL//GATE:NoneNone//SCHD:04:00:00/06:22:00//ACTL:05:32:17//ETA:120M//TYPE:B752//NARR:DELAYED 07:35 
 https://globe.adsbexchange.com/?icao=A9450D
 
 FLT:DL8936		STAT:CANCELED		ORGN:MSP		GATE:NoneNone		SCHD:06:15:00/08:59:00		ACTL:UNK		ETA:0M		TYPE:BCS3		NARR:CANCELED 
