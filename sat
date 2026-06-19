@@ -4,8 +4,8 @@ https://globe.adsbexchange.com/?icao=A3D7A7
 
 ====================================================================================================================================================================================
 
-FLT:DL2797		STAT:ESTIMATED		ORGN:SLC		GATE:A5		SCHD:21:30:00/00:16:00		ACTL:21:42:17		ETA:-1M		TYPE:A319		NARR:ESTIMATED 00:02 
-FLT:DL2797//STAT:ESTIMATED//ORGN:SLC//GATE:A5//SCHD:21:30:00/00:16:00//ACTL:21:42:17//ETA:-1M//TYPE:A319//NARR:ESTIMATED 00:02 
+FLT:DL2797		STAT:ESTIMATED		ORGN:SLC		GATE:A5		SCHD:21:30:00/00:16:00		ACTL:21:42:17		ETA:-2M		TYPE:A319		NARR:ESTIMATED 00:02 
+FLT:DL2797//STAT:ESTIMATED//ORGN:SLC//GATE:A5//SCHD:21:30:00/00:16:00//ACTL:21:42:17//ETA:-2M//TYPE:A319//NARR:ESTIMATED 00:02 
 https://globe.adsbexchange.com/?icao=A39E6B
 
 FLT:DL1508		STAT:CANCELED		ORGN:ATL		GATE:A5		SCHD:22:00:00/00:33:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:CANCELED 
