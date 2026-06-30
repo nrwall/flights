@@ -4,8 +4,8 @@ https://globe.adsbexchange.com/?icao=A32E8C
 
 ====================================================================================================================================================================================
 
-FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:A5		SCHD:07:22:00/09:52:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:SCHEDULED 
-FLT:DL1676//STAT:SCHEDULED//ORGN:ATL//GATE:A5//SCHD:07:22:00/09:52:00//ACTL:UNK//ETA:0M//TYPE:A320//NARR:SCHEDULED 
+FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:A5		SCHD:07:22:00/09:52:00		ACTL:07:31:08		ETA:0M		TYPE:A320		NARR:SCHEDULED 
+FLT:DL1676//STAT:SCHEDULED//ORGN:ATL//GATE:A5//SCHD:07:22:00/09:52:00//ACTL:07:31:08//ETA:0M//TYPE:A320//NARR:SCHEDULED 
 https://globe.adsbexchange.com/?icao=A418B2
 
 FLT:DL1121		STAT:SCHEDULED		ORGN:ATL		GATE:A5		SCHD:08:42:00/11:10:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:SCHEDULED 
