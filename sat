@@ -1,9 +1,5 @@
 ====================================================================================================================================================================================
 
-FLT:DL1508		STAT:LANDED		ORGN:ATL		GATE:A5		SCHD:22:00:00/00:33:00		ACTL:22:35:48		ETA:-6M		TYPE:A320		NARR:LANDED 00:28 
-FLT:DL1508//STAT:LANDED//ORGN:ATL//GATE:A5//SCHD:22:00:00/00:33:00//ACTL:22:35:48//ETA:-6M//TYPE:A320//NARR:LANDED 00:28 
-https://globe.adsbexchange.com/?icao=A44F0D
-
 FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:A5		SCHD:07:22:00/09:52:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:SCHEDULED 
 FLT:DL1676//STAT:SCHEDULED//ORGN:ATL//GATE:A5//SCHD:07:22:00/09:52:00//ACTL:UNK//ETA:0M//TYPE:A320//NARR:SCHEDULED 
 https://globe.adsbexchange.com/?icao=A38D49
@@ -66,4 +62,4 @@ https://globe.adsbexchange.com/?icao=A057CC
 
 
 
-https://globe.adsbexchange.com/?icao=A44F0D,A38D49,A3897F,A418B2,A05410,A441C9,0D0BCE,A3BDAC,A48A8F,A071C8,A3696E,A4350C,A3C5EA,,A05B7E,A057CC
+https://globe.adsbexchange.com/?icao=A38D49,A3897F,A418B2,A05410,A441C9,0D0BCE,A3BDAC,A48A8F,A071C8,A3696E,A4350C,A3C5EA,,A05B7E,A057CC
