@@ -8,10 +8,6 @@ https://globe.adsbexchange.com/?icao=
 
 ====================================================================================================================================================================================
 
-FLT:DL2680		STAT:LANDED		ORGN:SLC		GATE:A3		SCHD:14:25:00/17:14:00		ACTL:14:31:18		ETA:-13M		TYPE:BCS1		NARR:LANDED 17:01 
-FLT:DL2680//STAT:LANDED//ORGN:SLC//GATE:A3//SCHD:14:25:00/17:14:00//ACTL:14:31:18//ETA:-13M//TYPE:BCS1//NARR:LANDED 17:01 
-https://globe.adsbexchange.com/?icao=A02C91
-
 FLT:DL2893		STAT:CANCELED		ORGN:ATL		GATE:A3		SCHD:18:09:00/20:37:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:CANCELED 
 FLT:DL2893//STAT:CANCELED//ORGN:ATL//GATE:A3//SCHD:18:09:00/20:37:00//ACTL:UNK//ETA:0M//TYPE:A320//NARR:CANCELED 
 https://globe.adsbexchange.com/?icao=A39100
@@ -70,4 +66,4 @@ https://globe.adsbexchange.com/?icao=A399E4
 
 
 
-https://globe.adsbexchange.com/?icao=A02C91,A39100,A3411F,A359BC,A434F9,A46A72,A418B2,A32437,A418B2,A37AA3,A44F0D,A47597,A0757F,AD5622,A399E4
+https://globe.adsbexchange.com/?icao=A39100,A3411F,A359BC,A434F9,A46A72,A418B2,A32437,A418B2,A37AA3,A44F0D,A47597,A0757F,AD5622,A399E4
