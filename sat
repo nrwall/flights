@@ -8,10 +8,6 @@ https://globe.adsbexchange.com/?icao=A04A4D
 
 ====================================================================================================================================================================================
 
-FLT:DL2773		STAT:ESTIMATED		ORGN:MSP		GATE:A4		SCHD:18:35:00/21:26:00		ACTL:19:15:22		ETA:7M		TYPE:BCS3		NARR:ESTIMATED 21:33 
-FLT:DL2773//STAT:ESTIMATED//ORGN:MSP//GATE:A4//SCHD:18:35:00/21:26:00//ACTL:19:15:22//ETA:7M//TYPE:BCS3//NARR:ESTIMATED 21:33 
-https://globe.adsbexchange.com/?icao=A3411F
-
 FLT:DL1222		STAT:SCHEDULED		ORGN:ATL		GATE:A3		SCHD:19:52:00/22:19:00		ACTL:UNK		ETA:0M		TYPE:A321		NARR:SCHEDULED 
 FLT:DL1222//STAT:SCHEDULED//ORGN:ATL//GATE:A3//SCHD:19:52:00/22:19:00//ACTL:UNK//ETA:0M//TYPE:A321//NARR:SCHEDULED 
 https://globe.adsbexchange.com/?icao=A359BC
@@ -78,4 +74,4 @@ https://globe.adsbexchange.com/?icao=A42EFC
 
 
 
-https://globe.adsbexchange.com/?icao=A3411F,A359BC,A434F9,A46A72,A3E5FA,A32437,A418B2,A37AA3,A44F0D,A47597,A0757F,AD5622,A384F8,A0A30E,A44B56,A36F7E,A42EFC
+https://globe.adsbexchange.com/?icao=A359BC,A434F9,A46A72,A3E5FA,A32437,A418B2,A37AA3,A44F0D,A47597,A0757F,AD5622,A384F8,A0A30E,A44B56,A36F7E,A42EFC
