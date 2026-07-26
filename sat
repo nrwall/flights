@@ -1,8 +1,8 @@
-====================================================================================================================================================================================
-
-FLT:DL2680		STAT:DELAYED		ORGN:SLC		GATE:A3		SCHD:14:25:00/17:14:00		ACTL:15:11:06		ETA:24M		TYPE:BCS1		NARR:DELAYED 17:38 
-FLT:DL2680//STAT:DELAYED//ORGN:SLC//GATE:A3//SCHD:14:25:00/17:14:00//ACTL:15:11:06//ETA:24M//TYPE:BCS1//NARR:DELAYED 17:38 
+FLT:DL2680		STAT:DELAYED		ORGN:SLC		GATE:A3		SCHD:14:25:00/17:14:00		ACTL:15:11:06		ETA:23M		TYPE:BCS1		NARR:DELAYED 17:38 
+FLT:DL2680//STAT:DELAYED//ORGN:SLC//GATE:A3//SCHD:14:25:00/17:14:00//ACTL:15:11:06//ETA:23M//TYPE:BCS1//NARR:DELAYED 17:38 
 https://globe.adsbexchange.com/?icao=A01B5C
+
+====================================================================================================================================================================================
 
 FLT:DL2893		STAT:SCHEDULED		ORGN:ATL		GATE:A5		SCHD:18:11:00/20:39:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:SCHEDULED 
 FLT:DL2893//STAT:SCHEDULED//ORGN:ATL//GATE:A5//SCHD:18:11:00/20:39:00//ACTL:UNK//ETA:0M//TYPE:A320//NARR:SCHEDULED 
@@ -62,4 +62,4 @@ https://globe.adsbexchange.com/?icao=A388AF
 
 
 
-https://globe.adsbexchange.com/?icao=A01B5C,A3A5EC,A3CC88,A3C15D,A434F9,AA7833,A42B45,A3B4B5,A3CD6B,A37335,A39100,A48E3A,A022C6,AC4917,A388AF
+https://globe.adsbexchange.com/?icao=A3A5EC,A3CC88,A3C15D,A434F9,AA7833,A42B45,A3B4B5,A3CD6B,A37335,A39100,A48E3A,A022C6,AC4917,A388AF
