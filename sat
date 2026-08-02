@@ -4,8 +4,8 @@ https://globe.adsbexchange.com/?icao=A3D122
 
 ====================================================================================================================================================================================
 
-FLT:DL1365		STAT:DELAYED		ORGN:DTW		GATE:A6		SCHD:19:15:00/22:22:00		ACTL:19:53:45		ETA:27M		TYPE:A319		NARR:DELAYED 22:41 
-FLT:DL1365//STAT:DELAYED//ORGN:DTW//GATE:A6//SCHD:19:15:00/22:22:00//ACTL:19:53:45//ETA:27M//TYPE:A319//NARR:DELAYED 22:41 
+FLT:DL1365		STAT:DELAYED		ORGN:DTW		GATE:A6		SCHD:19:15:00/22:22:00		ACTL:19:53:45		ETA:23M		TYPE:A319		NARR:DELAYED 22:39 
+FLT:DL1365//STAT:DELAYED//ORGN:DTW//GATE:A6//SCHD:19:15:00/22:22:00//ACTL:19:53:45//ETA:23M//TYPE:A319//NARR:DELAYED 22:39 
 https://globe.adsbexchange.com/?icao=A39AB4
 
 FLT:DL1508		STAT:SCHEDULED		ORGN:ATL		GATE:A5		SCHD:20:55:00/23:21:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:SCHEDULED 
