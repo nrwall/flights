@@ -4,8 +4,8 @@ https://globe.adsbexchange.com/?icao=
 
 ====================================================================================================================================================================================
 
-FLT:DL1222		STAT:LANDED		ORGN:ATL		GATE:A6		SCHD:20:15:00/22:43:00		ACTL:20:32:43		ETA:-9M		TYPE:A321		NARR:LANDED 22:30 
-FLT:DL1222//STAT:LANDED//ORGN:ATL//GATE:A6//SCHD:20:15:00/22:43:00//ACTL:20:32:43//ETA:-9M//TYPE:A321//NARR:LANDED 22:30 
+FLT:DL1222		STAT:LANDED		ORGN:ATL		GATE:A6		SCHD:20:15:00/22:43:00		ACTL:20:32:43		ETA:-10M		TYPE:A321		NARR:LANDED 22:30 
+FLT:DL1222//STAT:LANDED//ORGN:ATL//GATE:A6//SCHD:20:15:00/22:43:00//ACTL:20:32:43//ETA:-10M//TYPE:A321//NARR:LANDED 22:30 
 https://globe.adsbexchange.com/?icao=A34AE0
 
 FLT:DL1676		STAT:SCHEDULED		ORGN:ATL		GATE:A3		SCHD:07:25:00/09:48:00		ACTL:UNK		ETA:0M		TYPE:A320		NARR:SCHEDULED 
